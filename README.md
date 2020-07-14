@@ -37,7 +37,7 @@
 | nom_ucue | nom UCUE (cours) | A | 30 |  |
 | libele_ucue | libele UCUE (cours) | AN |  | Ce libélé servira également d'identifiant dans ce système Au format : libele_ue - nom_ucue  |
 | photo_ucue | Photo UCUE (cours)  | Image | Pixel |  |
-| video_intro_ucue | Video UCUE (cours)  | Video | Pixel |  |
+| video_intro_ucue | Video UCUE (cours)  | AN |  |  |
 | description_ucue | description UCUE (cours) | texte |  | |
 | prix_ucue | prix UCUE(cours)  | N   |  |  |
 | date_add_ucue | date de creation  UCUE(cours) | Date   | 15 |  |
